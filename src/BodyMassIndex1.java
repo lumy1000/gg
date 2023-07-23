@@ -7,7 +7,7 @@ public class BodyMassIndex1
         float weight=114.5f;*/
 
 
-        Scanner scanner = new Scanner(System.in);
+        Scanner   scanner = new Scanner(System.in);
         System.out.print("greutate: ");
         int weightNew = scanner.nextInt();
         System.out.print("inaltime:");
